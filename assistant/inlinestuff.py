@@ -32,8 +32,8 @@ from . import _ult_cache
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupportChat"),
+        Button.url("• Owner •", url="https://t.me/Prince_Star_Lord"),
+        Button.url("• Support •", url="t.me/M2linksCommunity"),
     ],
 ]
 
@@ -574,8 +574,8 @@ async def inline_tl(ult):
             [
                 await ult.builder.article(
                     title="How to Use?",
-                    description="Tl Searcher by Ultroid",
-                    url="https://t.me/TeamUltroid",
+                    description="Tl Searcher by M2links",
+                    url="https://t.me/M2links",
                     text=text,
                 )
             ],
@@ -610,7 +610,7 @@ InlinePlugin.update(
     {
         "Pʟᴀʏ Sᴛᴏʀᴇ Aᴘᴘs": "app telegram",
         "Mᴏᴅᴅᴇᴅ Aᴘᴘs": "mods minecraft",
-        "Sᴇᴀʀᴄʜ Oɴ Gᴏᴏɢʟᴇ": "go TeamUltroid",
+        "Sᴇᴀʀᴄʜ Oɴ Gᴏᴏɢʟᴇ": "go M2LINKS",
         "WʜɪSᴘᴇʀ": "wspr @username Hello🎉",
         "YᴏᴜTᴜʙᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ": "yt Ed Sheeran Perfect",
         "Piston Eval": "run javascript console.log('Hello Ultroid')",
