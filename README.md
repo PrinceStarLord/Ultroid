@@ -59,6 +59,3 @@ One of the following database:
 Different ways to get your `SESSION`:
 * [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
 * Linux : `wget -O session.py https://git.io/JY9JI && python3 session.py`
-* PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
-* Termux : `wget -O session.py https://git.io/JY9JI && python session.py`
-* TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
